@@ -13,6 +13,7 @@
  - 本科/福建工程学院/软件工程
  - 毕业时间：2018.06
  - Github：http://github.com/deardirks
+ - Gitee： http://gitee.com/deardirks
  - 期望职位：前端开发
  - 期望薪资：月薪13k~15k
  - 期望城市：厦门、福州
@@ -53,13 +54,14 @@
 
 以下均为我所掌握的技能
 
-- Web开发：ES6/JavaScript/CSS/HTML/Ajax
-- 前端框架：Vue全家桶/Bootstrap/Jquery/Avalon
-- 前端工具：Axios/moment.js/lodash/Webpack/Babel
-- 常用编辑器：Vscode/Webstorm/Sublime/ Hbuilder/Chrome/firebug
-- 版本管理：Git/Svn
+- Web开发：es6/JavaScript/CSS/HTML
+- 前端框架：vue/bootstrap/jquery/avalon
+- 前端工具：axios/moment.js/lodash/webpack/scss
+- 常用组件库：element/vant/vux
+- 版本管理：git/svn
       
----      
+---   
+   
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
       
